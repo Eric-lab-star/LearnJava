@@ -31,9 +31,9 @@ java app은 main메서드로 시작을 해서, main 마지막 문장까지 실�
         1 byte   2 byte   4 byte    8 byte
 
     논리형 boolean
-    문자형 char
-    정수형 byte int short long
-    실수형 float double
+    문자형          char
+    정수형 byte     int     short   long
+    실수형                  float   double
 
 8bit = 1 byte
 
