@@ -5,11 +5,11 @@
 Hello.java 파일 실행하기
 
 1. Hello.java 작성
-2. javc Hello.java
+2. javac Hello.java
 3. java Hello
 
 Hello.java 파일 이름과 클래스 이름은 대소문자 까지 같아야 한다.
-2번 과정에서 javc 실행파일로 Hello.java로 부터 Hello.class 생성후에 java 실행파일로 클래스 파일 실행
+2번 과정에서 javac 실행파일로 Hello.java로 부터 Hello.class 생성후에 java 실행파일로 클래스 파일 실행
 
 ---
 
