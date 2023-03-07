@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 public class CleanName {
@@ -31,4 +32,16 @@ public class CleanName {
 		return flaggedCells;
 
 	}
+}
+
+class Customer {
+	private Date generationTimeStamp;
+	private Date modificaionTimeStamp;
+	private final String recordId = "102";
+}
+
+class DtaRcrd102 {
+	private Date genymdhms;
+	private Date modymdhms;
+	private final String pszqint = "102";
 }
